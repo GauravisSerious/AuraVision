@@ -28,7 +28,7 @@ A full-featured AI-powered image generation web app built with **Streamlit** and
 -----
 ## <a name="how-to-run"></a>🧑‍💻 How to Run
 *# Clone the repository*
-git clone https://github.com/yourusername/aura-vision.git
+git clone https://github.com/GauravisSerious/AuraVision
 cd aura-vision
 
 *# (Optional) Create a virtual environment*
