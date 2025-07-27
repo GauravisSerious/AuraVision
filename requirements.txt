@@ -1,6 +1,9 @@
+# Core dependencies
 streamlit==1.32.2
-diffusers[torch]==0.27.2
-transformers==4.41.1
 torch==2.2.2
+transformers==4.41.1
 pillow==10.3.0
 numpy==1.26.4
+
+# Install diffusers separately without [torch] extras (to avoid Streamlit Cloud issues)
+diffusers==0.27.2
