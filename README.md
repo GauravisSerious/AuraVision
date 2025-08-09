@@ -46,15 +46,4 @@ streamlit run app.py
 - HuggingFace access token to download Stable Diffusion XL weights
 - CUDA-compatible GPU recommended for fast generation
 -----
-## <a name="folder-structure"></a>📃 Folder Structure
-aura-vision/
-├── app.py
-├── utils/
-│   └── image\_tools.py
-├── assets/
-├── requirements.txt
-└── README.md
 
------
-## <a name="license"></a>📓 License
-MIT License
