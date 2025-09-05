@@ -21,11 +21,7 @@ A full-featured AI-powered image generation web app built with **Streamlit** and
 - **AI Models**: Stable Diffusion XL, CLIP, VAE, U-Net
 - **Libraries**: diffusers, torch, Pillow, numpy
 -----
-## <a name="demo"></a>📸 Demo
-*Coming soon…*
-(Include screenshots or a short screen recording here)
 
------
 ## <a name="how-to-run"></a>🧑‍💻 How to Run
 *# Clone the repository*
 git clone https://github.com/GauravisSerious/AuraVision
