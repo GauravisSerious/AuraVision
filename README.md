@@ -41,5 +41,5 @@ streamlit run app.py
 ## <a name="model-requirements"></a>🧠 Model Requirements
 - HuggingFace access token to download Stable Diffusion XL weights
 - CUDA-compatible GPU recommended for fast generation
------
+----
 
